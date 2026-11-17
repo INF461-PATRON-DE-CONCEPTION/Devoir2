@@ -1,0 +1,5 @@
+package exemple;
+
+public abstract class Automobile {
+    public abstract void methodeAutomobile();
+}
